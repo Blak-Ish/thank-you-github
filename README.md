@@ -2146,6 +2146,7 @@
     - Kassem Itani ([@kassemitani](https://github.com/kassemitani)) Mobile App Developer, Beirut, Lebanon
     - Akash Ranjan ([@akasranjan005](https://github.com/akasranjan005)) Python Developer, Mumbai, India
     - Surajeet Sen ([@surajeetsen](https://github.com/surajeetsen)) Software Engineer, India.
+    - Agbalaya Rasaq ([@Blak-Ish](https://github.com/Blak-Ish)), Software Engineer , Nigeria.
     - Van-Duyet LE ([@duyetdev](https://github.com/duyetdev)), Data Engineer, Vietnam
     - Nicolas Talle ([@Nicolab](https://github.com/Nicolab)), Full Stack Developer & OSS Dev & CEO at [inStack.io](https://instack.io)
     - Ruwan Ranganath Senarathne ([@ruwan-ranganath](https://github.com/ruwan-ranganath)) DevOps Engineer, Sri Lanka.
